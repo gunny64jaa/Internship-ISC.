@@ -68,3 +68,6 @@ undo shutdown
 save
 ~~~
 5. ต่อสาย Link โดยต่อไขว้กัน (Port 25 ของ Switch 1 คู่กับ Port 26 ของ Switch 2) และ (Port 26 ของ Switch 1 คู่กับ Port 25 ของ Switch 2)
+6. ถ้าทำ IRF สำเร็จ
+- Switch จะ reboot ตัวเองและขึ้นไฟโชว์ Port ด้านหน้า Switch
+- เช็คโดยใช้คำสั่ง `display interface brief`
