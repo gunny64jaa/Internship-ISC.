@@ -10,7 +10,7 @@
 2. Config switch ตัวที่ 1 ใน SecureCRT ดังนี้
 ~~~
 system-view
-interface range Ten-GigabitEthernet 2/0/25 to Ten-GigabitEthernet 2/0/26
+interface range Ten-GigabitEthernet 1/0/25 to Ten-GigabitEthernet 1/0/26
 shutdown
 quit
 ~~~
