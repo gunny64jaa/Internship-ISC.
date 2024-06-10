@@ -67,3 +67,4 @@ undo shutdown
 ~~~
 save
 ~~~
+5. ต่อสาย Link โดยต่อไขว้กัน (Port 25 ของ Switch 1 คู่กับ Port 26 ของ Switch 2) และ (Port 26 ของ Switch 1 คู่กับ Port 25 ของ Switch 2)
