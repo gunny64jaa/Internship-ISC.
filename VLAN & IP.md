@@ -6,9 +6,9 @@ system-view
 vlan 100
 quit
 ~~~
-2. การกำหนด IP Address และ Subnet Mask ให้ VLAN ใน port ที่เราต่อสาย LAN ไป ยกตัวอย่าง ต่อ switch เข้า port 4
+2. การกำหนด IP Address และ Subnet Mask ให้กับ VLAN ที่เราสร้างขึ้นมา (ในที่นี้คือ VLAN 100 ให้ IP 193.168.201.1/24)
 ~~~
-system-view
-vlan 100
+Vlan-interface 100
+ip address 193.168.201.1 255.255.255.0
 quit
 ~~~
