@@ -10,7 +10,7 @@
 2. Config switch ตัวที่ 1 ใน SecureCRT ดังนี้
 ~~~
 system-view
-interface Ten-GigabitEthernet2/0/25 to Ten-GigabitEthernet2/0/26
+interface range Ten-GigabitEthernet2/0/25 to Ten-GigabitEthernet2/0/26
 shutdown
 quit
 ~~~
@@ -27,7 +27,7 @@ quit
 irf-port-configuration active
 ~~~
 ~~~
-interface Ten-GigabitEthernet2/0/25 to Ten-GigabitEthernet2/0/26
+interface range Ten-GigabitEthernet2/0/25 to Ten-GigabitEthernet2/0/26
 undo shutdown
 ~~~
 ~~~
@@ -44,7 +44,7 @@ reboot
 ~~~
 ~~~
 system-view
-interface Ten-GigabitEthernet2/0/25 to Ten-GigabitEthernet2/0/26
+interface range Ten-GigabitEthernet2/0/25 to Ten-GigabitEthernet2/0/26
 shutdown
 quit
 ~~~
@@ -61,7 +61,7 @@ quit
 irf-port-configuration active
 ~~~
 ~~~
-interface Ten-GigabitEthernet2/0/25 to Ten-GigabitEthernet2/0/26
+interface range Ten-GigabitEthernet2/0/25 to Ten-GigabitEthernet2/0/26
 undo shutdown
 ~~~
 ~~~
