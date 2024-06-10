@@ -12,3 +12,10 @@ Vlan-interface 100
 ip address 193.168.201.1 255.255.255.0
 quit
 ~~~
+3. กำหนด Port ให้กับ VLAN (กำหนด port ที่ switch ต่อกับอุปกรณ์อื่น ในที่นี้กำหนด port GigabitEthernet 1/0/4 อยู่ใน VLAN 100)
+~~~
+interface GigabitEthernet 1/0/4
+port access vlan 100
+quit
+save
+~~~
