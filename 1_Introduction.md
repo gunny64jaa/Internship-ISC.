@@ -6,6 +6,9 @@
 ![ISC-LAB-LABEL](https://github.com/gunny64jaa/Internship-ISC./assets/102170391/9ece6569-630f-4def-9e88-cb61f21c6d6d)
 
 ต่อไปนี้เป็นการตอนการทำ LAB
-1. กำหนด IP และ Port ของอุปกรณ์ต่าง ๆ รวมไปถึง VLAN (ทดไว้ในกระดาษ) 
+1. กำหนด IP และ Port ของอุปกรณ์ต่าง ๆ รวมไปถึง VLAN (ทดไว้ในกระดาษ)
+
+![isclab_label](https://github.com/gunny64jaa/Internship-ISC./assets/102170391/7bdd377a-5dc2-446e-8a8c-7759dfdcd3ca)
+   
 2. ทำ IRF
 3. กำหนด VLAN และ IP address
