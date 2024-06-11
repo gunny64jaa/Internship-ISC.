@@ -20,10 +20,4 @@ quit
 save
 ~~~
 > ข้อแตกต่างระหว่าง Untagged กับ Tagged VLAN
-> ในการส่งข้อมูล Untagged VLAN จะไม่มีความปลอดภัย
-> > afdsf
-> asdfa
-> fsadf
-> adsf
-> asdf
-> adsf
+>> ในการส่งข้อมูล Untagged VLAN จะไม่มีความปลอดภัย
