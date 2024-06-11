@@ -19,3 +19,5 @@ port access vlan 1000
 quit
 save
 ~~~
+> ข้อแตกต่างระหว่าง Untagged กับ Tagged VLAN :
+> test
