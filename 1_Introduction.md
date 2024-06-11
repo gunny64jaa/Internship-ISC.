@@ -1,2 +1,3 @@
 # Introduction of ISC-LAB
-![ภาพแผนผัง Network ที่ต้องการทำ]([https://ibb.co/dGgj7j1](https://i.ibb.co/D5pzLzs/ISC-LAB-NETWORK-1.png))
+![enter image description here](https://photos.fife.usercontent.google.com/pw/AP1GczPzDbSYfvu4T4ZrOjedaVzhaSXbyQH8buAYv-wpO3o-I6vkylUGq9Xi=w1251-h885-s-no?authuser=0)
+
