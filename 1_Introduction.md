@@ -13,4 +13,4 @@
 2. การทำ IRF
 [Internship-ISC./2_IRF.md at main · gunny64jaa/Internship-ISC. (github.com)](https://github.com/gunny64jaa/Internship-ISC./blob/main/2_IRF.md)
 3. การ Config VLAN และ IP address
-
+[Internship-ISC./3_VLAN & IP.md at main · gunny64jaa/Internship-ISC. (github.com)](https://github.com/gunny64jaa/Internship-ISC./blob/main/3_VLAN%20%26%20IP.md)
