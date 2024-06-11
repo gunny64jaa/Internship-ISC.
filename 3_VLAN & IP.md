@@ -1,5 +1,7 @@
 # VLAN & IP
 
+**Vlan(Virtual area network)** หมายถึงกลุ่ม device ที่เชื่อมต่อกันและมีการแชร์ Broadcast domain ร่วมกัน
+
 1. การสร้าง VLAN ยกตัวอย่างเช่น ต้องการสร้าง VLAN 1000
 ~~~
 system-view
