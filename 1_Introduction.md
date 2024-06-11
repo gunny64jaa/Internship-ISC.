@@ -1,3 +1,3 @@
 # Introduction of ISC-LAB
-![enter image description here](https://photos.fife.usercontent.google.com/pw/AP1GczPzDbSYfvu4T4ZrOjedaVzhaSXbyQH8buAYv-wpO3o-I6vkylUGq9Xi=w1251-h885-s-no?authuser=0)
+![ISC-LAB-NETWORK-1](https://github.com/gunny64jaa/Internship-ISC./assets/102170391/022d04fc-197c-4b82-a9d8-842319ba4081)
 
