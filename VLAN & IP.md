@@ -8,7 +8,7 @@ quit
 ~~~
 2. การกำหนด IP Address และ Subnet Mask ให้กับ VLAN ที่เราสร้างขึ้นมา (ในที่นี้คือ VLAN 100 ให้ IP 193.168.201.1/24)
 ~~~
-Vlan-interface 100
+interface Vlan-interface 100
 ip address 192.168.204.1 255.255.255.0
 quit
 ~~~
