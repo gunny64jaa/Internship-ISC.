@@ -24,4 +24,8 @@ save
 ## ข้อแตกต่างระหว่าง Untagged กับ Tagged VLAN
 **Untagged VLANs (Access VLANs)**
 - ในการส่งข้อมูลมีโครงสร้างแบบเส้นตรง เช่น ส่งผ่าน A ไป B มากกว่า A ไป B, C หรือ D
-- วิธีการทำ เข้าไปที่ Interface ก่อน (`Interface GigabitEthernet x/0/x`) แล้วใช้คำสั่ง `port access vlan xxxx`
+- วิธีการทำ เข้าไปที่ Interface `Interface GigabitEthernet x/0/x` แล้วใช้คำสั่ง `port access vlan xxxx`
+
+**Tagged VLANs (Trunk VLANs)**
+- สามารถส่งข้อมูลได้หลากหลาย VLAN และมีการแยก traffic ที่ชัดเจนจึงมีเส้นทางการส่งที่มากกว่า
+- วิธีการทำ เข้าไปที่ Interface
