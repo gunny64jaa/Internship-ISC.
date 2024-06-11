@@ -21,5 +21,5 @@ port access vlan 1000
 quit
 save
 ~~~
-**ข้อแตกต่างระหว่าง Untagged กับ Tagged VLAN**
-- ในการส่งข้อมูล Untagged VLAN จะไม่มีความปลอดภัย
+## ข้อแตกต่างระหว่าง Untagged กับ Tagged VLAN
+**Untagged VLANs (Access VLANs)ในการส่งข้อมูลมีโครงสร้างแบบเส้นตรง เช่น ส่งผ่าน A ไป B มากกว่า A ไป B, C หรือ D
