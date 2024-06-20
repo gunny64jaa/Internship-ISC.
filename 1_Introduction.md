@@ -11,8 +11,8 @@
 ![isclab_label](https://github.com/gunny64jaa/Internship-ISC./assets/102170391/2f7cc086-42f7-45cc-9555-109facd956b0)
    
 2. การทำ IRF
-[Internship-ISC./2_IRF.md at main · gunny64jaa/Internship-ISC. (github.com)](https://github.com/gunny64jaa/Internship-ISC./blob/main/2_IRF.md)
+[IRF](https://github.com/gunny64jaa/Internship-ISC./blob/main/2_IRF.md)
 3. การ Config VLAN และ IP address
-[Internship-ISC./3_VLAN & IP.md at main · gunny64jaa/Internship-ISC. (github.com)](https://github.com/gunny64jaa/Internship-ISC./blob/main/3_VLAN%20%26%20IP.md)
+[VLAN and IP Address](https://github.com/gunny64jaa/Internship-ISC./blob/main/3_VLAN%20%26%20IP.md)
 4. การทำ LACP
-[Internship-ISC./4_LACP.md at main · gunny64jaa/Internship-ISC. (github.com)](https://github.com/gunny64jaa/Internship-ISC./blob/main/4_LACP.md)
+[LACP](https://github.com/gunny64jaa/Internship-ISC./blob/main/4_LACP.md)
