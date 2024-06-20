@@ -24,3 +24,7 @@ save
 - Gateway Access : 192.168.254.1
 - VLAN : VLAN 1000 (VLAN ของ Core Switch)
 ~~~
+
+
+## คำสั่งเพิ่มเติม
+- `display lldp neighbor-information list`
