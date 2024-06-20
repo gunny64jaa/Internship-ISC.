@@ -16,3 +16,4 @@
 [VLAN and IP Address](https://github.com/gunny64jaa/Internship-ISC./blob/main/3_VLAN%20%26%20IP.md)
 4. การทำ LACP
 [LACP](https://github.com/gunny64jaa/Internship-ISC./blob/main/4_LACP.md)
+5. การทำ Routing
