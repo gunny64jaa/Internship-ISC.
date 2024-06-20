@@ -26,9 +26,9 @@ save
 - ในการส่งข้อมูลมีโครงสร้างแบบเส้นตรง เช่น ส่งผ่าน A ไป B มากกว่า A ไป B, C หรือ D
 - วิธีการทำ เข้าไปที่ Interface `Interface GigabitEthernet x/0/x` แล้วใช้คำสั่ง `port access vlan xxxx`
 - อีกวิธีคือ เข้าไปที่ Interface `Interface GigabitEthernet x/0/x` แล้วใช้คำสั่ง `port link-type trunk` ตามด้วย `port trunk pvid vlan xxxx` (ในวิธีนี้จะต้องมี Trunk permit ของ VLAN นั้น ๆ ก่อนถึงจะทำเป็น Untagged VLAN ได้)
-- อุปกรณ์ที่ใช้ Untagged VLANs เช่น คอมพิวเตอร์
+- อุปกรณ์ที่ใช้ Untagged VLANs เช่น Computer, Switch, Telephone
 
 **Tagged VLANs (Trunk VLANs)**
 - สามารถส่งข้อมูลได้หลากหลาย VLAN และมีการแยก traffic ที่ชัดเจนจึงมีเส้นทางการส่งที่มากกว่า
 - วิธีการทำ เข้าไปที่ Interface `Interface GigabitEthernet x/0/x` แล้วใช้คำสั่ง `port link-type trunk` ตามด้วย `port trunk permit vlan xxxx`
-- อุปกรณ์ที่ใช้ Tagged VLANs เช่น Firewall Switch Telephone 
+- อุปกรณ์ที่ใช้ Tagged VLANs เช่น Firewall, Switch, Telephone 
