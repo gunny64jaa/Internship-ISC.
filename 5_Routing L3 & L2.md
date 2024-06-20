@@ -6,10 +6,21 @@
 ```
 system
 ip route-static 0.0.0.0 0 192.168.100.1
+save
 ```
 สร้าง routing จาก Default ของ Access Switch ไป Gateway ของ Core Switch
 2. สร้าง Routing จาก Core Switch ไป Fire Wall ใช้คำสั่งในทำนองเดียวกัน
 ```
 system
-ip route-static 0.0.0.0 0 192.168..1
+ip route-static 0.0.0.0 0 192.168.254.60
+save
+```
+สร้าง routing จาก Default ของ Core Switch ไป Gateway ของ Access Switch
+3. สร้าง Static Route ใน Firewall ให้มี VLAN ของ Access Switch (ในที่นี้คือ VLAN 100)
+```
+1. เข้าไปที่ Network -> Static Route -> Create New
+2. กรอกข้อมูล
+- Destination : 192.168.100.0/255.255.255.0
+- Gateway Access : 192.168.254.1
+- VLAN : VLAN 1000 (VLAN ของ Core Switch)
 ```
