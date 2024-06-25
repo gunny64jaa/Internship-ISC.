@@ -7,9 +7,6 @@
 
 ต่อไปนี้เป็นการตอนการทำ LAB
 1. กำหนด IP และ Port ของอุปกรณ์ต่าง ๆ รวมไปถึง VLAN (ทดไว้ในกระดาษ)
-
-![isclab_label](https://github.com/gunny64jaa/Internship-ISC./assets/102170391/2f7cc086-42f7-45cc-9555-109facd956b0)
-   
 2. การทำ IRF
 [IRF](https://github.com/gunny64jaa/Internship-ISC./blob/main/2_IRF.md)
 3. การ Config VLAN และ IP address
