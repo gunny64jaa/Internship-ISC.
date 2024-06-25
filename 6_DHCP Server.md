@@ -2,7 +2,7 @@
 
 ## DHCP Server on access switch (HPE)
 1. สร้าง DHCP ip-pool
-````
+```
 sys
 dhcp eneble
 dhcp server ip-pool <x>
