@@ -1,8 +1,7 @@
 # DHCP Server
 
 ## DHCP Server on access switch (HPE)
-1. ส
-2. dhcp server ip-in-useร้าง DHCP ip-pool
+1. สร้าง DHCP ip-pool
 ````
 sys
 dhcp eneble
