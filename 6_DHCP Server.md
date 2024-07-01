@@ -16,5 +16,5 @@ address range 192.168.1.120 192.168.1.200
 ```
 3. วิธี check
 ```
-dhcp server ip-in-use
+dis dhcp server ip-in-use
 ```
