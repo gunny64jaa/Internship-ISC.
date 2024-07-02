@@ -38,4 +38,8 @@ Pool name: 3
 ```
 ## DHCP Server on Fortigate Firewall
 แจก IP ของ VLAN 400 และ 500 บน Firewall
-1. ทดลบ
+1. เข้าไปที่ Network -> Interface -> Create New
+2. ตั้งชื่อ เลือก Interface ที่ต้องการ ใส่ Vlan
+3. ใส่ IP Gateway ให้ Vlan วงเดียวกับที่ต้องการ
+4. ติ้กถูกตรง DHCP Server
+5. เลือก IP ที่ต้องการจะแจก (.120 - .200)
