@@ -38,4 +38,4 @@ Pool name: 3
 ```
 ## DHCP Server on Fortigate Firewall
 แจก IP ของ VLAN 400 และ 500 บน Firewall
-1. 
+1. ทดลบ
