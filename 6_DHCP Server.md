@@ -17,3 +17,21 @@ address range 192.168.1.120 192.168.1.200
 ```
 dis dhcp server ip-in-use
 ```
+4. ผลลัพธ์ที่ได้จาก LAB จริง
+```
+Pool name: 1
+  Network: 192.168.1.0 mask 255.255.255.0 
+  address range 192.168.1.120 to 192.168.1.200
+  expired day 1 hour 0 minute 0 second 0
+  gateway-list 192.168.1.100 
+Pool name: 2
+  Network: 192.168.2.0 mask 255.255.255.0 
+  address range 192.168.2.120 to 192.168.2.200
+  expired day 1 hour 0 minute 0 second 0
+  gateway-list 192.168.2.100 
+Pool name: 3
+  Network: 192.168.3.0 mask 255.255.255.0 
+  address range 192.168.3.120 to 192.168.3.200
+  expired day 1 hour 0 minute 0 second 0
+  gateway-list 192.168.3.100 
+```
