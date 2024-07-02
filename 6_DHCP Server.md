@@ -35,3 +35,5 @@ Pool name: 3
   expired day 1 hour 0 minute 0 second 0
   gateway-list 192.168.3.100 
 ```
+## DHCP Server on Fortigate Firewall
+1. 
