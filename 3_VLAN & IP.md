@@ -8,7 +8,7 @@ system-view
 vlan 1000
 quit
 ~~~
-2. การกำหนด IP Address และ Subnet Mask ให้กับ VLAN ที่เราสร้างขึ้นมา (ในที่นี้คือ VLAN 1000 ให้ IP 192.168.202.1/24)
+2. การกำหนด IP Address และ Subnet Mask ให้กับ VLAN ที่เราสร้างขึ้นมา (ในที่นี้คือ VLAN 1000 ให้ IP 192.168.254.1/24)
 ~~~
 interface Vlan-interface 100
 ip address 192.168.254.1 255.255.255.0
