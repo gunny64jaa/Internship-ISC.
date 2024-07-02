@@ -37,4 +37,5 @@ Pool name: 3
   gateway-list 192.168.3.100 
 ```
 ## DHCP Server on Fortigate Firewall
+แจก IP ของ VLAN 400 และ 500 บน Firewall
 1. 
