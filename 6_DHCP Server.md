@@ -1,6 +1,7 @@
 # DHCP Server
 
 ## DHCP Server on access switch (HPE)
+แจก IP ของ VLAN 100, 200 และ 300 บน Access Switch 
 1. สร้าง DHCP ip-pool
 ```
 sys
