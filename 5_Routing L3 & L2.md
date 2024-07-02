@@ -5,7 +5,7 @@
 1. เริ่มจากการสร้าง Routing จาก Access Switch ไป Core Switch โดยใช้คำสั่ง
 ~~~
 system
-ip route-static 0.0.0.0 0 192.168.100.1
+ip route-static 0.0.0.0 0 192.168.1.1
 save
 //สร้าง routing จาก Default ของ Access Switch ไป Gateway ของ Core Switch
 ~~~
@@ -20,9 +20,10 @@ save
 ~~~
 1. เข้าไปที่ Network -> Static Route -> Create New
 2. กรอกข้อมูล
-- Destination : 192.168.100.0/255.255.255.0
+- Destination : 192.168.1.0/255.255.255.0
 - Gateway Access : 192.168.254.1
 - VLAN : VLAN 1000 (VLAN ของ Core Switch)
+3. เน้นย้ำ ต้องไม่มี VLAN ที่วงซ้ำกัน ไม่งั้นมันจะหาทางไปไม่เจอ
 ~~~
 
 
