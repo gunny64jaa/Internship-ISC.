@@ -1,7 +1,7 @@
 # IRF
 วิธีการทำ IRF ของ Switch HPE 5140
 
- - ใช้ Program SecureCRT 9.4 Version Crack
+ - ใช้ Program SecureCRT 9.4 
  - ใช้สาย Link ในการเชื่อม 2 Port
  - สาย Console ใช้ USB to LAN cable
 
