@@ -16,4 +16,4 @@
 5. การทำ Routing
 [Routing L3 & L2](https://github.com/gunny64jaa/Internship-ISC./blob/main/5_Routing%20L3%20%26%20L2.md)
 6. การทำ DHCP Server บน Switch & Firewall
-[DHCP Server]([https://github.com/gunny64jaa/Internship-ISC./blob/main/5_Routing%20L3%20%26%20L2.md](https://github.com/gunny64jaa/Internship-ISC./blob/main/6_DHCP%20Server.md))
+[DHCP Server]([https://github.com/gunny64jaa/Internship-ISC./blob/main/5_Routing%20L3%20%26%20L2.md])
