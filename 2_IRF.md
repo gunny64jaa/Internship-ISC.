@@ -71,3 +71,6 @@ save
 6. ถ้าทำ IRF สำเร็จ
 - Switch จะ reboot ตัวเองและขึ้นไฟโชว์ Port ด้านหน้า Switch
 - เช็คโดยใช้คำสั่ง `display interface brief`
+
+## เพิ่มเติม กรณีที่ทำ IRF 1 สาย
+- ขั้นตอนเหมือนเดิมแต่เพียงแค่ irf-port จะเป็น irf-port 1/1 และ irf-port 2/2
